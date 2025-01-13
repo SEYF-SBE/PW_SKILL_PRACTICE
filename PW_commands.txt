@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+/*
+    To get help - cli
+*/
+npx playwright help (test, show-trace, ....)
+
+/*
+    To execute test with Trace mode
+*/
+npx playwright test {path/test_name.spec.ts} --trace on
+
+/*
+    To combine test explorer with Trace viewer
+*/
+npx playwright test --ui
+
+=======
+/*
+    To get help - cli
+*/
+npx playwright help (test, show-trace, ....)
+
+/*
+    To execute test with Trace mode
+*/
+npx playwright test {path/test_name.spec.ts} --trace on
+
+/*
+    To combine test explorer with Trace viewer
+*/
+npx playwright test --ui
+
+>>>>>>> 1d990610793d4249390f69b4902c6737014cbcf2

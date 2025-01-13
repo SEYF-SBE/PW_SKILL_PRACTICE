@@ -1,0 +1,21 @@
+{
+  "name": "pw_skill_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.6"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+    

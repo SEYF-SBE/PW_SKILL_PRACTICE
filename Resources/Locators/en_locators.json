@@ -1,0 +1,6 @@
+{
+    "Register_page_loactors": {
+        "firstName_label": "//label[@for='firstName']",
+        "firstname_field": "#firstName"
+    }
+}
